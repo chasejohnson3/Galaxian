@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Emissary(int,\ int)
+comment1.params=
+comment1.target=int\ getValue()
+comment2.params=
+comment2.target=java.lang.String\ getFile()
+numComments=3
