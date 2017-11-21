@@ -1,7 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is my version of the atari-style joystick game Galaxian.  I completed this
+project for an end of year project for AP Computer Science my Junior year of 
+high school.  I can't say it is error or bug proof, but the graphics and gameplay
+do immitate the original fairly well.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Galaxian
