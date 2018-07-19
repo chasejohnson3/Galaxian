@@ -10,8 +10,13 @@ do immitate the original fairly well.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Galaxian
+
 PURPOSE OF PROJECT: End of Year Project AP Computer Science
+
 VERSION or DATE: 2015
+
 HOW TO START THIS PROJECT:  Run the file named GalaxianGame.
+
 AUTHORS: Chase Johnson
+
 USER INSTRUCTIONS: Follow the instructions on the screen.  This is a game.
