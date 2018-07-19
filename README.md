@@ -1,3 +1,6 @@
+# Galaxian
+![alt text](https://github.com/chasejohnson3/Galaxian/blob/master/Galaxian.jpg)
+
 ------------------------------------------------------------------------
 This is my version of the atari-style joystick game Galaxian.  I completed this
 project for an end of year project for AP Computer Science my Junior year of 
